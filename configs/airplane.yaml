@@ -1,0 +1,7 @@
+# airplane.yaml
+path: /home/ubuntu/Projects/test/datasets/airplane_only
+train: images/train2017
+val: images/val2017
+
+names:
+  0: airplane
